@@ -1,2 +1,2 @@
-# zhong_wen_shang_pin_fen_lei_SVM
+# 中文商品分类_SVM
 项目需要做一个商品文本的简单分类，采用TF-IDF统计词频后用SVM进行分类
